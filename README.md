@@ -1,2 +1,1 @@
-# Site:
-https://ultimategamers.github.io
+# Site: ultimategamers.ga
